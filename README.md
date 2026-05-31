@@ -1,4 +1,7 @@
 # AI Mixed Quiz Generator 🧠
+## Project Preview
+
+![Quiz Screenshot](screenshot.png)
 
 ## Features
 - 50 Easy Mixed Quiz Questions
